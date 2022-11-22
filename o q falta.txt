@@ -1,0 +1,10 @@
+Agora:
+	Fazer com que a bola ja saia no lugar correto
+	Fazer com que a bola so rebata se apertar o botão enquanto ela esta no jogador
+	comentar o código
+
+
+Depois:
+	Colocar placar e quem ganhou no final
+	Colocar o record geral através de um arquivo .txt
+	Comentar o código
